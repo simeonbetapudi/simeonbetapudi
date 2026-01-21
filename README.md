@@ -1,6 +1,6 @@
 ## Hey, welcome to Simeon's Github!
 
-I am a Data Science major with fun projects ranging from class projects to weird history OCR adventures to water quality projects. 
+I am a Data Science major with fun projects ranging from class projects to weird history OCR adventures to water quality models of the Harpeth River. 
 If you have any questions, my email is simeonbetapudi@gmail.com.
 
 <!--
